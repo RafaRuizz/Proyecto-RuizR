@@ -1,3 +1,5 @@
+El presente proyecto no incluye video, se defenderá y presentara frente al docente Hualpa
+
 # 🌍 Sistema de Gestión de Naciones
 
 ## 📋 Descripción del Programa
