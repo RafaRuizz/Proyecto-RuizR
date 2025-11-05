@@ -1,4 +1,4 @@
-El presente proyecto no incluye video, se defenderá y presentara frente al docente Hualpa
+LINK del video expositivo del proyecto: https://www.youtube.com/watch?v=QvovUuSJ14k
 
 # 🌍 Sistema de Gestión de Naciones
 
